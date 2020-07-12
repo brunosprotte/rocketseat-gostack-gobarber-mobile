@@ -37,8 +37,6 @@ local.properties
 #
 /node_modules/
 
-/android/
-/ios/
 /__tests__/
 
 npm-debug.log
